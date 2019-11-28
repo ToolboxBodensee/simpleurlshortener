@@ -1,5 +1,7 @@
 # Simple URL Shortener
 
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/webseite/simpleurlshortener). Auf GitHub befindet sich lediglich ein Mirror**
+
 Source Code of the Code from the article of [Adventure Of Palash](https://palash.tk)
 
 Tools Using : 
